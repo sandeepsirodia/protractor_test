@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="12589">
+ <testsuite name="register function and login check" timestamp="2018-01-15T19:04:37" hostname="localhost" time="12.589" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="register function and login check" name="should add a Name as Sandeep" time="4.909" />
+  <testcase classname="register function and login check" name="should add a Name as Sandeep" time="3.889" />
+  <testcase classname="register function and login check" name="should logout" time="0.37" />
+  <testcase classname="register function and login check" name="should login as Sandeep" time="1.765" />
+  <testcase classname="register function and login check" name="should login as Sirodia" time="1.654" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,39 @@
+{
+  "name": "angular-registration-login-example",
+  "version": "1.0.0",
+  "description": "angular-registration-login-example ==============================",
+  "main": "app.js",
+  "dependencies": {
+    "browser-sync": "^2.23.5",
+    "del": "^3.0.0",
+    "event-stream": "^3.3.4",
+    "fs-extra": "^5.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.0",
+    "gulp-jenkins": "^1.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-print": "^2.0.1",
+    "gulp-webserver": "^0.9.1",
+    "jasmine-json-test-reporter": "^1.0.0-beta",
+    "jasmine-reporters": "^2.3.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "main-bower-files": "^2.13.1",
+    "protractor": "^5.2.2",
+    "pump": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornflourblue/angular-registration-login-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornflourblue/angular-registration-login-example/issues"
+  },
+  "homepage": "https://github.com/cornflourblue/angular-registration-login-example#readme"
+}
